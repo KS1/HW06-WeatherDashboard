@@ -1,4 +1,4 @@
-# 06 Server-Side APIs: Weather Dashboard
+Weather Dashboard
 
 Published Site URL: https://ks1.github.io/HW06-WeatherDashboard/
 
@@ -6,12 +6,16 @@ Source Code: https://github.com/KS1/HW06-WeatherDashboard
 
 Screenshots: 
 
-## Complted Tasks
+## Completed Tasks
 
-
-Used the [OpenWeather One Call API](https://openweathermap.org/api/one-call-api) to retrieve weather data for cities. 
-
-Used `localStorage` to store any persistent data. 
+1. Created weather dashboard with form inputs.
+2. Created code to see the weather outlook for multiple cities.
+3. Created code to search for a city.
+4. Created code to view future weather conditions for that city.
+5. Created code to show a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity.
+6. Created code to selct a city in the search history.
+7. Used the OpenWeather API to retrieve weather data for cities. 
+8. Used `localStorage` to store and persistent cities data. 
 
 Worked on below user story -
 
