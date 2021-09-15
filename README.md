@@ -4,7 +4,7 @@ Published Site URL: https://ks1.github.io/HW06-WeatherDashboard/
 
 Source Code: https://github.com/KS1/HW06-WeatherDashboard 
 
-Screenshots: 
+Screenshots: https://github.com/KS1/HW06-WeatherDashboard/blob/main/Weather-Dashboard-Screenshots.pdf 
 
 ## Completed Tasks
 
